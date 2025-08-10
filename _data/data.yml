@@ -13,7 +13,7 @@ contact:
   location: Cucq, Fance     # location, text or markdown link syntax
 #  email: romain.delente@outlook.com     # email address
 #  phone: +33-633-04-97-60  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-#  website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
+  website: jungledede.github.io/online-resume/     # site link without schema, like example.com, will automatically prepend "https://"
 
   gender:                   # gender or pronoun
   birthday: May 1991        # birthday
@@ -25,10 +25,10 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   # https://github.com/<Jungledede>
+  github: https://github.com/<Jungledede>                  # https://github.com/<Jungledede>
 
   # cv
-  linkedin:                 # https://linkedin.com/in/<username>
+  linkedin: https://linkedin.com/in/<romain-delente>                # https://linkedin.com/in/<romain-delente>
 
   # chat
   wechat:                   # wechat id, text or markdown link syntax
@@ -57,11 +57,11 @@ experience:
 
   items:
     - company: Valeo
-      link: '#'
+      link: 
       tags: Full-time
       date: 2017.08 - Today
       role: Expert Method Process Testing Engineer 
-      location: Etaples - France
+      location: Etaples (62) - France
       description: |
         Expert Level Achieved in 2024
         Worldwide support for existing test benches
@@ -89,16 +89,51 @@ experience:
         + Back EMF station, and tuning stations
         + EOL station for full electric powertrain
 
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+    - company: Valeo
+      link: 
+      tags: Full-time
+      date: 2017.03 - 2017.07
+      role: Testing Trainee 
+      location: Etaples (62) - France
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Characterisation of a measurement linkedin:
+        + Development of a standard part and software programs (C language program for the standard part's µC and test program in CVI/LabWindows for the test bay)
+        + Development of manual control for a test bay with LabWindow/CVI
+
+    - company: Baron
+      link:
+      tags: Full-time
+      date: 2016.04 - 2016.08
+      role: Trainee
+      location: Rinxent - France
+      description: |
+        + Vison Camera program (Cognex)
+        + Kistler system integration (software in plc) with test criteria programing and statistical validation  
+
+    - company: CNPP (Centre National de Prévention et Protection)
+      link:
+      tags: Full-time
+      date: 2014.05 - 2015.08
+      role: Test Technician
+      location: Rinxent (62) - France
+      description: |
+        + NF-SSI fire safety equipment sampling under the NF mark: verification of product compliance with EN54 & NF 508 certification.
+        + Created detailed reports documenting results of testing activities.
+
+    - company: Johnson Controls 
+      link:
+      tags: Full-time
+      date: 2016.04 - 2016.08
+      role: Trainee
+      location: La Ferté-Bernard (72) - France
+      description: |
+        + Process testing technician for APU.
+        + Maintenance of PCBA test bench in situ (aeroflex/ifr) and functional testers
+        + Maintenance of Eol test benches for end product like TPMS and BCM/BSI
+        + Preventive maintenance develop competances in mechanical for tests interfaces like :
+            + Extensiometrie (déformation of the pcb under the mechanical force of the test fixture), 
+            + Test probe choice and design of the test fixtures.
+            
 
 project:
   show: false
