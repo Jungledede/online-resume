@@ -18,7 +18,7 @@ contact:
   gender:                   # gender or pronoun
   birthday: May 1991        # birthday
   nationality: French       # nationality
-  visa:                     # passport visa
+#  visa:                     # passport visa
   drivinglicense: B          # driving licence
 
   # ! Do not paste the link directly.
@@ -31,11 +31,11 @@ contact:
   linkedin: romain-delente  # https://linkedin.com/in/<romain-delente>
 
   # chat
-  wechat:                   # wechat id, text or markdown link syntax
+  wechat: jungledede                  # wechat id, text or markdown link syntax
   whatsapp:                 # https://wa.me/<number>
 
   # social
-  strava: VIWCf3QYIVb      # https://www.strava.com/athletes/<id>
+  #strava: VIWCf3QYIVb      # https://www.strava.com/athletes/<id>
 
 profile:
   show: true
@@ -179,41 +179,45 @@ skill:
     There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-    - name: Skill A
+    - name: NI-TestStand
+      level: 4
+    - name: NI-LabWindows/CVI
+      level: 4      
+    - name: NI-LabView
+      level: 3
+    - name: C
+      level: 4
+    - name: C#
+      level: 4
+    - name: NVH
+      level: 3
+    - name: Python
+      level: 3
+    - name: Computer Science
       level: 5
-    - name: Skill B
-      level: 4
-    - name: Skill C
+    - name: Vector CANoe
       level: 3
-    - name: Skill D
-      level: 4
-    - name: Skill E
+    - name: MSA
       level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
-      level: 3
+    - name: Software Architect
+      level: 3      
 
   groups:
-    - name: Group A Skills
+    - name: Programing
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - NI-TestStand
+        - NI-LabWindows/CVI
+        - NI-LabView
+        - C
+        - C#
+        - Python
+        - Software Architect
+    - name: Automotive
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
-      item:
-        - Skill H
-        - Skill I
+        - NVH
+        - Vector CANoe
+        - MSA
+
 
 education:
   show: true
