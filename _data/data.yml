@@ -318,11 +318,11 @@ award:
     
   items:
     - name: 24h Du Code
-      awarder: HAUM (Le Mans FabLab) - Chambre du Commerce et de l'Idustrie
+      awarder: HAUM (Le Mans FabLab) - CCI
       date: 2024
       link: https://www.linkedin.com/posts/romain-delente_24hducode-activity-7048569543295688705-6vpq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA95WYgBsShjK1YZVB5ZAeGLY0fYT-vkrk4
       description: |
-        Hackathon. Took place at Le Mans (Sarthe, France). Topic whatsapp:
+        Hackathon. Took place at Le Mans (Sarthe, France).
 
         + You have to drive a RC Car on a track
         + We give you only the source code of the car.
@@ -332,7 +332,7 @@ award:
         + Participate at the final race on the track
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
