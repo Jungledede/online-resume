@@ -42,11 +42,15 @@ profile:
   order: 1
   title: Profile
   description: |
-    Looking for new experiences involving system integration, tests, analysis. Traceability , factorry 4.0 and MES are topic that tickle my interests as well.
-    With experience in test benches design and support worldwide, I have experience in software development, electrical engineering and gain basic mechanical analysis skills. Trying to find the best standard and flexible way to build an architecture is what drives me. Bonus point for area close to mountains to enjoy hike, bike rides in summer and ski in winter, and beautiful landscapes changing every days. (target Bielsko-Biala county in Poland or Grenoble in France).
+    I am looking for new experiences involving system integration, testing and analysis. Traceability, Factory 4.0 and MES are topics that interest me as well. 
+    
+    I have experience in test bench design and support worldwide, as well as in software development and electrical engineering, and I have gained basic mechanical analysis skills. 
+    My drive comes from trying to find the best standard and flexible way to build an architecture. 
+    
+    Ideally, I would like to live in an area close to the mountains where I can enjoy hiking and cycling in the summer and skiing in the winter, and where the beautiful landscapes change every day. (Target locations: Bielsko-Biala County in Poland or Grenoble in France).
 
-    With Valeo worldwide experience added to movies and games and other culturals media, English is fluent to live abroad and work with any Europe country or India, Brazil, Mexico and Alos China and Korea.(B2)
-    Started Polish since begin 2025, target is A1 level for next year.
+    With Valeo worldwide experience added to movies and games and other culturals media, my English is fluent enough for me to live abroad. I cna work with any Europe country or India, Brazil, Mexico and also China and Korea.
+    I started Polish since begin 2025, target is A1 level for next year.
 
 experience:
   show: true
@@ -64,7 +68,9 @@ experience:
       location: Etaples (62) - France
       description: |
         Expert Level Achieved in 2024
+
         Worldwide support for existing test benches
+
         Global Flexible Test Bench Standardization:
 
         Flexibility, future anticipation, scalable
