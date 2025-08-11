@@ -42,14 +42,15 @@ profile:
   order: 1
   title: Profile
   description: |
-    I am looking for new experiences involving system integration, testing and analysis. Traceability, Factory 4.0 and MES are topics that interest me as well. 
+    I am looking for new experiences involving system integration, testing and analysis. Traceability, Factory 4.0 and MES are topics that interest me as well.
+    NVH is a discipline I discover during the last 8 years. I find it interesting to see how it is perceveided as black magic when it can show lot of mechanical and electrical behaviour of the DUT, of the structure. It is a subject that I like to popularise.   
     
     I have experience in test bench design and support worldwide, as well as in software development and electrical engineering, and I have gained basic mechanical analysis skills. 
     My drive comes from trying to find the best standard and flexible way to build an architecture. 
     
     Ideally, I would like to live in an area close to the mountains where I can enjoy hiking and cycling in the summer and skiing in the winter, and where the beautiful landscapes change every day. (Target locations: Bielsko-Biala County in Poland or Grenoble in France).
 
-    With Valeo worldwide experience added to movies and games and other culturals media, my English is fluent enough for me to live abroad. I cna work with any Europe country or India, Brazil, Mexico and also China and Korea.
+    With Valeo worldwide experience added to movies and games and other culturals media, my English is fluent enough for me to live abroad. I can work with any Europe country or India, Brazil, Mexico and also China and Korea.
     I started Polish since begin 2025, target is A1 level for next year.
 
 experience:
@@ -80,15 +81,15 @@ experience:
         + Developed test sequences using C, C#, and NI TestStand, and drove instrumentation using NI PXIe/cDAQ devices, CAN interfaces, multimeters, and high-power supplies.
         + Lead developer for Traceability library (SQL, iTac) and PLC-Pc communication library (Profinet/OPC Ua)
 
+        NVH Integration :
+        + Guide supplier for optimal integration of sensors
+        + validation of machines at comissioning, support of the NVH system (hard + soft)
+
         Standard Owner:
         + HV and LV motor-generator EOL test benches (dynamic) on the final assembly line
 
         Global Support:
         + Provided worldwide support for existing test benches, ensuring seamless operations and quick resolution of issues.
-
-        NVH Integration :
-        + Guide supplier for optimal integration of sensors
-        + validation of machines at comissioning, support of the NVH system (hard + soft)
 
         Advanced Testing Solutions :
         + EOL stator
