@@ -43,14 +43,14 @@ profile:
   title: Profile
   description: |
     I am looking for new experiences involving system integration, testing and analysis. Traceability, Factory 4.0 and MES are topics that interest me as well.
-    NVH is a discipline I discover during the last 8 years. I find it interesting to see how it is perceveided as black magic when it can show lot of mechanical and electrical behaviour of the DUT, of the structure. It is a subject that I like to popularise.   
+    NVH is a discipline I discover during the last 8 years. I find it interesting to see how it is perceived as black magic when it can show lot of mechanical and electrical behavior of the DUT, of the structure. It is a subject that I like to popularize.   
     
     I have experience in test bench design and support worldwide, as well as in software development and electrical engineering, and I have gained basic mechanical analysis skills. 
     My drive comes from trying to find the best standard and flexible way to build an architecture. 
     
     Ideally, I would like to live in an area close to the mountains where I can enjoy hiking and cycling in the summer and skiing in the winter, and where the beautiful landscapes change every day. (Target locations: Bielsko-Biala County in Poland or Grenoble in France).
 
-    With Valeo worldwide experience added to movies and games and other culturals media, my English is fluent enough for me to live abroad. I can work with any Europe country or India, Brazil, Mexico and also China and Korea.
+    With Valeo worldwide experience added to movies and games and other cultural media, my English is fluent enough for me to live abroad.
     I started Polish since begin 2025, target is A1 level for next year.
 
 experience:
@@ -83,13 +83,14 @@ experience:
 
         NVH Integration :
         + Guide supplier for optimal integration of sensors
-        + validation of machines at comissioning, support of the NVH system (hard + soft)
+        + validation of machines at commissioning, support of the NVH system (hard + soft)
 
         Standard Owner:
         + HV and LV motor-generator EOL test benches (dynamic) on the final assembly line
 
         Global Support:
         + Provided worldwide support for existing test benches, ensuring seamless operations and quick resolution of issues.
+        + Supported on-site commissioning of new test benches in various countries, including China, Korea, India, and Poland.
 
         Advanced Testing Solutions :
         + EOL stator
@@ -103,7 +104,7 @@ experience:
       role: Testing Trainee 
       location: Etaples (62) - France
       description: |
-        Characterisation of a measurement linkedin:
+        Characterization of a measurement linkedin:
         + Development of a standard part and software programs (C language program for the standard part's µC and test program in CVI/LabWindows for the test bay)
         + Development of manual control for a test bay with LabWindow/CVI
 
@@ -114,8 +115,8 @@ experience:
       role: Trainee
       location: Rinxent - France
       description: |
-        + Vison Camera program (Cognex)
-        + Kistler system integration (software in plc) with test criteria programing and statistical validation  
+        + Vision Camera program (Cognex)
+        + Kistler system integration (software in plc) with test criteria programming and statistical validation  
 
     - company: CNPP (Centre National de Prévention et Protection)
       link:
@@ -135,10 +136,10 @@ experience:
       location: La Ferté-Bernard (72) - France
       description: |
         + Process testing technician for APU.
-        + Maintenance of PCBA test bench in situ (aeroflex/ifr) and functional testers
+        + Maintenance of PCBA test bench in situ (Aeroflex/IFR) and functional testers
         + Maintenance of Eol test benches for end product like TPMS and BCM/BSI
-        + Preventive maintenance develop competances in mechanical for tests interfaces like :
-            + Extensiometrie (déformation of the pcb under the mechanical force of the test fixture), 
+        + Preventive maintenance develop competences in mechanical for tests interfaces like :
+            + Extensometry (i.e. deformation of the PCB under the mechanical force of the test fixture).
             + Test probe choice and design of the test fixtures.
             
 
@@ -189,8 +190,6 @@ skill:
       level: 4
     - name: C#
       level: 4
-    - name: NVH
-      level: 3
     - name: Python
       level: 3
     - name: Computer Science
@@ -200,10 +199,16 @@ skill:
     - name: MSA
       level: 3
     - name: Software Architect
+      level: 3    
+    - name: NVH
+      level: 3       
+    - name: Siemens Anovis
+      level: 3
+    - name: Discom
       level: 3      
 
   groups:
-    - name: Programing
+    - name: Programming
       item:
         - NI-TestStand
         - NI-LabWindows/CVI
@@ -215,6 +220,8 @@ skill:
     - name: Automotive
       item:
         - NVH
+        - Anovis
+        - Discom
         - Vector CANoe
         - MSA
 
@@ -241,7 +248,7 @@ education:
       link: https://www.linkedin.com/school/ulco-univ/?trk=public_profile-settings_school
       date: 2011 - 2012
       major: Electronic and Communications Engineering Technology
-      degree: Professional Licence
+      degree: Professional License
       # description: |
       #   Additional information for this institution.
       #   + First
@@ -385,7 +392,7 @@ language:
     - idiom: English
       level: Professional - B2
     - idiom: Polish
-      level: Beginer. Target A1 for 2026
+      level: Beginner. Target A1 for 2026
 
 interest:
   show: true
@@ -396,7 +403,7 @@ interest:
   items:
     - item: Mountain Bike
       link: 
-    - item: HomeLab (Old iformatic devices and modern services like HomeAutomation, backup, NAS,…)
+    - item: HomeLab (Old informatics devices and modern services like HomeAutomation, backup, NAS,…)
       link:
 
 evaluation:
