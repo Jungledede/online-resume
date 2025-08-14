@@ -62,7 +62,7 @@ experience:
 
   items:
     - company: Valeo
-      link: 
+      link: https://www.linkedin.com/company/valeo
       tags: Full-time
       date: 2017.08 - Today
       role: Expert Method Process Testing Engineer 
@@ -109,7 +109,7 @@ experience:
         + Development of manual control for a test bay with LabWindow/CVI
 
     - company: Baron
-      link:
+      link: https://www.linkedin.com/company/baron-groupe
       tags: Full-time
       date: 2016.04 - 2016.08
       role: Trainee
@@ -119,7 +119,7 @@ experience:
         + Kistler system integration (software in plc) with test criteria programming and statistical validation  
 
     - company: CNPP (Centre National de Prévention et Protection)
-      link:
+      link: https://www.linkedin.com/company/cnpp
       tags: Full-time
       date: 2014.05 - 2015.08
       role: Test Technician
@@ -129,7 +129,7 @@ experience:
         + Created detailed reports documenting results of testing activities.
 
     - company: Johnson Controls 
-      link:
+      link: https://www.linkedin.com/company/johnson-controls
       tags: Full-time
       date: 2016.04 - 2016.08
       role: Trainee
@@ -235,7 +235,7 @@ education:
 
   items:
     - institution: ULCO - Université du Littoral Côte d'Opale - Calais (62)
-      link: https://www.linkedin.com/school/ulco-univ/?trk=public_profile-settings_school
+      link: https://www.linkedin.com/school/ulco-univ
       date: 2015 - 2017
       major: Electronic and Instrumentation
       degree: Master
@@ -245,7 +245,7 @@ education:
       #   + Second
 
     - institution: ULCO - Université du Littoral Côte d'Opale - Calais (62)
-      link: https://www.linkedin.com/school/ulco-univ/?trk=public_profile-settings_school
+      link: https://www.linkedin.com/school/ulco-univ
       date: 2011 - 2012
       major: Electronic and Communications Engineering Technology
       degree: Professional License
@@ -255,7 +255,7 @@ education:
       #   + Second
 
     - institution: Lycée Jules Verne - Mondevile (14)
-      link: 
+      link: https://jules-verne.lycee.ac-normandie.fr/
       date: 2009 - 2011
       major: Electronic Systems
       degree: BTS (Technician degree)
@@ -265,7 +265,7 @@ education:
       #   + Second    
 
     - institution: Lycée Alain - Alençon (61)
-      link: 
+      link: https://alain.lycee.ac-normandie.fr/
       date: 2007 - 2009
       major: Electronic
       degree: BAC STI
