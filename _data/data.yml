@@ -3,7 +3,7 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Jungledede                      # WEB versionname
+  name: Romain DELENTE                      # WEB versionname
   title: Expert Testing Engineer        # job title 
   avatar:
     show: true                       # show or hide avatar
@@ -11,8 +11,8 @@ basic:
 
 contact:
   location: Cucq, Fance     # location, text or markdown link syntax
-#  email: romain.delente@outlook.com     # email address
-#  phone: +33-633-04-97-60  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  email: romain.delente@outlook.com     # email address
+  phone: +33-633-04-97-60  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: jungledede.github.io/online-resume/     # site link without schema, like example.com, will automatically prepend "https://"
 
   gender:                   # gender or pronoun
@@ -339,28 +339,23 @@ award:
         + Participate at the final race on the track
 
 patent:
-  show: false
+  show: true
   order: 9
   title: Patents
   description: |
-    The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
+    
+    Approved patent:
 
-    In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
+    + [Romain DELENTE (Valeo)]. [2024]. [METHOD FOR ADJUSTING A MEASURING DEVICE WITH AT LEAST ONE POSITION SENSOR]. [EP4379324A1], filed [2022], and issued [2023].
 
-    Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
+  # Template for an approved patent:
 
-    Template for a pending patent:
+  # + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
 
-    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
+  # The following are some examples of patent formats.
 
-    Template for an approved patent:
-
-    + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
-
-    The following are some examples of patent formats.
-
-    + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
-    + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+  # + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
+  # + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
 
 organization:
   show: false
