@@ -92,7 +92,7 @@ experience:
         + Provided worldwide support for existing test benches, ensuring seamless operations and quick resolution of issues.
         + Supported on-site commissioning of new test benches in various countries, including China, Korea, India, and Poland.
 
-        Advanced Testing Solutions :
+        Advanced Testing Solutions:
         + EOL stator
         + Back EMF station, and tuning stations
         + EOL station for full electric powertrain
@@ -104,9 +104,9 @@ experience:
       role: Testing Trainee 
       location: Etaples (62) - France
       description: |
-        Characterization of a measurement linkedin:
-        + Development of a standard part and software programs (C language program for the standard part's µC and test program in CVI/LabWindows for the test bay)
-        + Development of manual control for a test bay with LabWindow/CVI
+        Characterization of a measurement path:
+        + Development of a standard "dummy" DUT and software programs (C language program for the standard part's µC and test program in CVI/LabWindows for the test cabinet)
+        + Development of manual control for a test cabinet with LabWindow/CVI
 
     - company: Baron
       link: https://www.linkedin.com/company/baron-groupe
