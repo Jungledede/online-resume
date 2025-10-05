@@ -32,7 +32,7 @@ contact:
 
   # chat
   wechat: jungledede                  # wechat id, text or markdown link syntax
-  whatsapp: https://wa.me/+33633049760          # https://wa.me/<number>
+  whatsapp: +33633049760          # https://wa.me/<number>
 
   # social
   #strava: VIWCf3QYIVb      # https://www.strava.com/athletes/<id>
