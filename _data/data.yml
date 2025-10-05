@@ -32,7 +32,7 @@ contact:
 
   # chat
   wechat: jungledede                  # wechat id, text or markdown link syntax
-  whatsapp:                 # https://wa.me/<number>
+  whatsapp: https://wa.me/+33633049760          # https://wa.me/<number>
 
   # social
   #strava: VIWCf3QYIVb      # https://www.strava.com/athletes/<id>
@@ -93,9 +93,9 @@ experience:
         + Supported on-site commissioning of new test benches in various countries, including China, Korea, India, and Poland.
 
         Advanced Testing Solutions:
-        + EOL stator
+        + EOL stator : Hi-Pot, Surge, Partial Disharges
         + Back EMF station, and tuning stations
-        + EOL station for full electric powertrain
+        + EOL station for full electric powertrain : Electrical and mechanical power, efficiency, restbus simulation, …
 
     - company: Valeo
       link: 
@@ -205,6 +205,10 @@ skill:
     - name: Siemens Anovis
       level: 3
     - name: Discom
+      level: 3    
+    - name: Windows
+      level: 5
+    - name: linux (debian based)
       level: 3      
 
   groups:
