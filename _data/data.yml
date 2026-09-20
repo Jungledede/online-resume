@@ -10,7 +10,7 @@ basic:
     path: /assets/images/profile.jpg # file path or link to your avatar
 
 contact:
-  location: Cucq, Fance     # location, text or markdown link syntax
+  location: Crolles, Fance     # location, text or markdown link syntax
   email: romain.delente@outlook.com     # email address
   phone: +33-633-04-97-60  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: jungledede.github.io/online-resume/     # site link without schema, like example.com, will automatically prepend "https://"
@@ -61,10 +61,18 @@ experience:
 #    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
 
   items:
+    - company: Armatan
+      link: https://www.linkedin.com/company/armatan-sas
+      tags: Full-time
+      date: 2026.02 - Today
+      role: Expert Method Process Testing Engineer 
+      location: Etaples (62) - France
+      description: |
+
     - company: Valeo
       link: https://www.linkedin.com/company/valeo
       tags: Full-time
-      date: 2017.08 - Today
+      date: 2017.08 - 2026.01
       role: Expert Method Process Testing Engineer 
       location: Etaples (62) - France
       description: |
@@ -96,6 +104,11 @@ experience:
         + EOL stator : Hi-Pot, Surge, Partial Disharges
         + Back EMF station, and tuning stations
         + EOL station for full electric powertrain : Electrical and mechanical power, efficiency, restbus simulation, …
+
+        Automotive Testing:
+        + CAN communication HS and FD
+        + Diagnostic protocol OBD II, UDS, cyber security
+        + RestBus simulation
 
     - company: Valeo
       link: 
@@ -131,7 +144,7 @@ experience:
     - company: Johnson Controls 
       link: https://www.linkedin.com/company/johnson-controls
       tags: Full-time
-      date: 2016.04 - 2016.08
+      date: 2012.10 - 2014.04
       role: Trainee
       location: La Ferté-Bernard (72) - France
       description: |
@@ -185,13 +198,13 @@ skill:
     - name: NI-LabWindows/CVI
       level: 4      
     - name: NI-LabView
-      level: 3
+      level: 4
     - name: C
       level: 4
     - name: C#
       level: 4
     - name: Python
-      level: 3
+      level: 2
     - name: Computer Science
       level: 5
     - name: Vector CANoe
@@ -208,7 +221,7 @@ skill:
       level: 3    
     - name: Windows
       level: 5
-    - name: linux (debian based)
+    - name: Linux (debian based)
       level: 3      
 
   groups:
