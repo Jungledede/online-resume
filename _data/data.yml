@@ -48,10 +48,10 @@ profile:
     I have experience in test bench design and support worldwide, as well as in software development and electrical engineering, and I have gained basic mechanical analysis skills. 
     My drive comes from trying to find the best standard and flexible way to build an architecture. 
     
-    Ideally, I would like to live in an area close to the mountains where I can enjoy hiking and cycling in the summer and skiing in the winter, and where the beautiful landscapes change every day. (Target locations: Bielsko-Biala County in Poland or Grenoble in France).
+    Ideally, I would like to live in an area close to the mountains where I can enjoy hiking and mountain biking in the summer and skiing in the winter, and where the beautiful landscapes change every day.
 
-    With Valeo worldwide experience added to movies and games and other cultural media, my English is fluent enough for me to live abroad.
-    I started Polish since begin 2025, target is A1 level for next year.
+    With Valeo worldwide experience added to movies and games and other cultural media, my English is fluent and allows me to live abroad.
+    I started to learn Polish online since begin 2025. A1 level is my target for 2026. I am motivated to learn this language because I want to live in Poland in the future.
 
 experience:
   show: true
@@ -65,9 +65,14 @@ experience:
       link: https://www.linkedin.com/company/armatan-sas
       tags: Full-time
       date: 2026.02 - Today
-      role: Expert Method Process Testing Engineer 
-      location: Etaples (62) - France
+      role: Instrumentation and Testing Engineer
+      location: AlpeSpace, Ste Hélène du Lac (73) - France
       description: |
+        + Answer RFI/RFQ from customers for tests and meausrements solutions. Hardware and or Software.
+        + Development of new applications in Labview and maintenance of existing applications, including Real-Time and FPGA programming.
+        + Development of new test benches according to customer needs.
+
+        Focus on NI Hardware and Software.
 
     - company: Valeo
       link: https://www.linkedin.com/company/valeo
